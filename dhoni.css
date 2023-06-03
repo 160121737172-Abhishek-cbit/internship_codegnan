@@ -1,0 +1,43 @@
+.heading{
+    font-family:"BREE SERIF";
+    font-size:35px;
+    font-weight:normal;
+    color:black;
+    
+}
+
+.bg-container{
+    background-color:#e9edf5;
+    background-size:cover;
+    width:50%;
+    
+}
+.img1{
+    height:30vh;
+    width:20vw;
+}
+.p1{
+    font-family:"roboto ";
+    font-size:15px;
+    font-weight:bold;
+    color:black;
+    padding-right:50%;
+    
+}
+.div1{
+    background-size: cover;
+    background-color:white;
+}
+.heading2{
+    font-family:"BREE SERIF";
+    font-size:25px;
+    font-weight:normal;
+    color:darkslateblue;
+
+    
+}
+.bgg1{
+    background-color:white;
+    background-size:cover;
+    
+}
